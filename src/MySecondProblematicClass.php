@@ -1,7 +1,7 @@
 <?php
 
 
-class MyProblematicClass
+class MySecondProblematicClass
 {
     protected string $test;
 
