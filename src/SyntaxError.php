@@ -1,3 +1,7 @@
 <?php
 
-echo 'asdf'
+echo 'foo'
+
+echo 'foo'
+
+
