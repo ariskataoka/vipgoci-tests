@@ -1,0 +1,10 @@
+alert('a');
+alert('a');
+alert('a');
+alert('a');
+alert('a');
+alert('a');
+alert('a');
+alert('a');
+alert('a');
+alert('ERROR');
