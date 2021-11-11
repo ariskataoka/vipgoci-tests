@@ -12,3 +12,5 @@ $last_build_date = date("c", strtotime( '12121212' ) );
 		<?php content_feed_render_single_panel( [], 'test' ); ?>
 	</feed>
 <?php
+
+echo 'new line';
