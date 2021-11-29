@@ -1,0 +1,12 @@
+{
+  "name": "system-status",
+  "version": "0.0.1",
+  "description": "A system status tables with WordPress support",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^4.18.2",
+    "eslint-config-inpsyde": "^2.2.0"
+  },
+  "author": "Inpsyde GmbH",
+  "license": "GPL-2.0"
+}
