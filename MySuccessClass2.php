@@ -8,3 +8,4 @@ class MySuccessClass2
 	}
 }
 
+echo ""

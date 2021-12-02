@@ -8,3 +8,7 @@ class MySuccessClass
 	}
 }
 
+$myObj = new MySuccessClass();
+
+$myObj2 = new MySuccessClass()
+
